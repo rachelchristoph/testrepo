@@ -1,3 +1,2 @@
 # testrepo
 
-print("Hello World")
